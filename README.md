@@ -11,6 +11,17 @@
 Для этого добавляем, предварительно загруженный на компьютер, файл csv с названием "superstore_dataset2011-2015.csv" из Kaggle.   <br />
     <br />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e3cca5ba-5359-4e41-91f9-a24bc7b55a56" />
-
-
-
+  <br />
+Получим следующий результат в виде таблицы:  <br />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0be868dc-9880-4e77-bc2a-b8be82b94ddf" />
+  <br />
+Теперь нам необходимо проверить корректность форматов данных, а также удалить лишние для нас столбцы.  <br />
+Заменяем текстовы формат на дату:  <br />
+  <br />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a679f634-5077-498c-a1cf-4f50be214579" />
+  <br />
+  Как мы видим, сумма продажи отображается как текстовое значение. Нам необходимо заменить его на число с плавающей точкой(float), про этом изменив языковой стандарт на Английский(США).  <br />
+  <br />
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/88aa914f-1935-4222-bb5a-6b1b42749ccc" />
+  <br />
+  
