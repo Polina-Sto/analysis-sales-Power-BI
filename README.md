@@ -9,5 +9,7 @@
 
 ## Шаг 1. Выгрузка данных в Power-BI.
 Для этого добавляем, предварительно загруженный на компьютер, файл csv с названием "superstore_dataset2011-2015.csv" из Kaggle.  
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/318d881f-9556-47fc-baa7-d91134d93d2d" />
+   
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b84a2198-0310-4257-a219-941499d2c2d3" />
+
 
