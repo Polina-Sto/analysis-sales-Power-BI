@@ -16,7 +16,7 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0be868dc-9880-4e77-bc2a-b8be82b94ddf" />
   <br />
 Теперь нам необходимо проверить корректность форматов данных, а также удалить лишние для нас столбцы.  <br />
-Заменяем текстовы формат на дату:  <br />
+Проверяем, дата отображается именно в формате даты, а не текста:  <br />
   <br />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a679f634-5077-498c-a1cf-4f50be214579" />
   <br />
@@ -24,4 +24,12 @@
   <br />
   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/88aa914f-1935-4222-bb5a-6b1b42749ccc" />
   <br />
-  
+  Это необходимо, поскольку исходны числовые данные записаны через точку, а в российском формате они должны записываться через запятую. Поэтому мы изменяем формат данных. <br />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/13e77c4e-a433-4b45-b2a2-121be543b456" /> 
+ <br />
+Далее на всякий случай удалим все дупликаты, предварительно выделив все столбцы.  <br />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b940808-e7f9-4c81-9a1c-59e06dbb0c92" />
+ <br />
+
+ ## Шаг 2. Создание мер.
+ 
